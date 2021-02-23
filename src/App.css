@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+label{
+  font-size: 1.1rem;
+  font-family: 'Baloo Chettan 2', cursive;
+  padding: 10px;
+}
+
+.actionbtn{
+  padding: 0 10px;
+  border: 1px solid;
+  margin: 0 5px;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  box-sizing: inherit;
+  margin: 2px;
+}
+
+.btn-danger{
+  background-color: red;
+  margin: 0 1400px 0 0;
+}
+
+.checkbox{
+  opacity: 1 !important;
+  margin: 12px 0 0px 30px;
+}
